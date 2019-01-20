@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3442d39-4f11-4b87-8846-f3175ebcc49e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,9 +16,10 @@
     <session id="-1736991187">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -40,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -143,6 +145,7 @@
       <option name="presentableId" value="Default" />
       <updated>1547968509238</updated>
       <workItem from="1547968520413" duration="5185000" />
+      <workItem from="1547976937161" duration="230000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1547972935888</created>
@@ -155,22 +158,21 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6911000" />
+    <option name="totallyTimeSpent" value="7141000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.10855615" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.10962567" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.49893048" visible="true" weight="0.32951945" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.4983957" visible="true" weight="0.32951945" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.49946523" weight="0.32951945" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="2" sideWeight="0.50106955" side_tool="true" visible="true" weight="0.32951945" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="2" sideWeight="0.50160426" side_tool="true" visible="true" weight="0.32951945" />
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="4" weight="0.32947975" />
       <window_info anchor="bottom" id="Message" order="5" />
@@ -224,6 +226,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/repository" />
+    </ignored-roots>
     <MESSAGE value="second commit" />
     <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
@@ -231,7 +236,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
